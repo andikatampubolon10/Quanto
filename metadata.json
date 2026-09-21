@@ -1,0 +1,6 @@
+{
+  "name": "Quanto - Asisten Keuangan Pribadi",
+  "description": "Asisten keuangan pribadi cerdas untuk mengekstrak draf struk belanja otomatis, menentukan kategori belanjaan, dan menyusun laporan WhatsApp siap salin.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
